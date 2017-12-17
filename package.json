@@ -1,0 +1,30 @@
+{
+  "name": "simple-server-rest",
+  "version": "0.0.1",
+  "description": "Simple Server with REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "eslint . && jest tests/",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilFurquim/Simple-Server-REST.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Server",
+    "REST",
+    "API",
+    "Simple"
+  ],
+  "author": "Nilson Furquim da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NilFurquim/Simple-Server-REST/issues"
+  },
+  "homepage": "https://github.com/NilFurquim/Simple-Server-REST#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
